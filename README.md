@@ -1,100 +1,65 @@
-🌱 Green Echoes – Climate Education Platform
-Java OOP Application | Taylor’s University
-📘 Overview
+# 🌱 Green Echoes – Climate Education Platform
 
-Green Echoes is an educational software platform developed for the Object-Oriented Programming (ITS63304) course. The project aims to centralize and simplify climate-change education by combining interactive learning modules with sustainability-focused tools.
+Green Echoes is a Java OOP project built for the **Object-Oriented Programming (ITS63304)** course at **Taylor’s University**.  
+It’s an educational application that raises awareness about climate change through interactive modules, basic simulations, and user-focused features.
 
-Built using Java and Java Swing, the application integrates graphical interfaces with console-based systems, demonstrating strong OOP design, structured modular development, and user-centric interaction.
+---
 
-The application addresses key challenges in climate education — scattered information, lack of interactivity, and static content — by offering a unified and engaging learning experience.
+## 📘 About This Project
 
-🎯 Project Background
+- 🎯 Designed to make climate-change information **clear, structured, and interactive**
+- 🌍 Combines **education, awareness, and simple data modelling** in one application
+- 💻 Built as a **group project**, following good coding practices and documentation
+- 🧩 Uses multiple modules (authentication, information hub, calculators, etc.) to showcase **real OOP design**
 
-Climate information online is often fragmented, overwhelming, and difficult to explore meaningfully. Green Echoes was designed to solve this by offering:
+---
 
-A guided and structured learning environment
+## 🛠️ Tech & Tools
 
-Interactive elements that deepen user understanding
+- ☕ **Language:** Java (JDK 17+)
+- 🧱 **Paradigm:** Object-Oriented Programming (encapsulation, modularization, abstraction)
+- 🖥️ **GUI:** Java Swing (JFrame, JTextField, JButton, JOptionPane)
+- 📦 **Data Structures:** Arrays, multidimensional arrays, ArrayList
+- 🧮 **I/O & Logic:** Scanner for console input, control flow (loops, conditions, switch)
+- 🧰 **IDE:** Apache NetBeans IDE 19
 
-Tools that encourage real-world sustainable actions
+---
 
-A system that fosters awareness, engagement, and self-learning
+## ⚙️ What This Application Does (High Level)
 
-This project blends environmental awareness with software engineering, delivering impact beyond academics.
+- 🔐 Provides a **login & sign-up system** for normal users and admins  
+- 📚 Offers a structured **information hub** on climate topics  
+- 🧮 Includes a **carbon footprint calculator** based on walking distance  
+- 🌦️ Simulates **real-time environmental alerts** with region-based weather data  
+- 📝 Allows users to **give feedback and interact** with simple community elements  
+- 🧠 Contains a **quiz module** to reinforce learning about climate change  
 
-🛠️ Technologies & Tools
+*(Detailed feature explanations are available in the report in `/docs/`.)*
 
-Programming Language
+---
 
-Java (JDK 17+)
+## 🎓 What I Learned / Achieved
 
-Frameworks & Tools
+- ✅ Applied **OOP concepts** in a real, multi-module Java application  
+- ✅ Integrated **GUI (Swing)** with console-based logic in a single project  
+- ✅ Practised **input validation and error handling** to make the app more robust  
+- ✅ Worked with **arrays and collections** to manage structured and dynamic data  
+- ✅ Strengthened **team collaboration, documentation, and project organization**  
+- ✅ Gained experience modelling **real-world problems** (climate, carbon footprint, weather) in code  
 
-Java Swing (GUI development)
+---
 
-Java Collections Framework
+## 💡 Technical Skills Demonstrated
 
-Scanner & Console I/O
+- Java application development (console + GUI)  
+- Object-Oriented Programming (class design, modular architecture)  
+- Java Swing UI design and event handling  
+- Data structures: arrays, multidimensional arrays, ArrayList  
+- Input handling, validation, and user flow design  
+- Basic simulation and modelling of real-world data  
+- Writing clear technical documentation (report + README)
 
-OOP Design Principles
+---
 
-IDE
-
-Apache NetBeans IDE 19
-
-Repository Structure
-
-/src/ – All Java source files
-
-/docs/ – Reports and documentation
-
-/screenshots/ – Console & GUI output previews
-
-README.md – Project documentation
-
-⚙️ Technical Highlights
-
-Object-Oriented Design
-Modular separation of classes (authentication, information hub, calculator, alerts, etc.), encapsulation of logic, and maintainable architecture.
-
-Hybrid Console + GUI Development
-Integration of Swing-based login/registration windows with console-driven educational modules.
-
-Robust Input Validation
-Error handling for invalid data, empty fields, and unsafe user inputs.
-
-Data Structures in Practice
-Use of arrays, multi-dimensional arrays, and ArrayLists for storing dynamic data such as comments and simulated weather information.
-
-User Experience Considerations
-Clear prompts, bilingual output in the weather module (English/Chinese), structured flow, and meaningful messaging.
-
-🏆 Achievements
-
-Developed a complete multi-module Java application demonstrating practical OOP skills
-
-Successfully integrated GUI and console systems
-
-Improved understanding of modular architecture, program logic, and user interaction
-
-Built a climate-focused educational platform supporting sustainability awareness
-
-Strengthened teamwork, documentation quality, and structured software delivery
-
-🎓 Skills Demonstrated
-
-Java Application Development (Console + GUI)
-
-Object-Oriented Programming (encapsulation, abstraction, modularization)
-
-Java Swing UI/UX design
-
-Data structures (arrays, ArrayLists, multi-dimensional arrays)
-
-Input validation & error handling
-
-Multi-module application architecture
-
-Real-world modelling (climate data, carbon footprint calculations)
-
-Professional documentation & presentation
+Thanks for checking out **Green Echoes**! 🌍✨  
+Feel free to explore the code, docs, and screenshots in this repository.
