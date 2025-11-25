@@ -5,6 +5,7 @@
 # 🌱 Green Echoes – Climate Education Platform
 
 Green Echoes is a Java OOP project built for the **Object-Oriented Programming (ITS63304)** course at **Taylor’s University**.  
+
 It’s an educational application that raises awareness about climate change through interactive modules, basic simulations, and user-focused features.
 
 ---
