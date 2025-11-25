@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # 🌱 Green Echoes – Climate Education Platform
 
 Green Echoes is a Java OOP project built for the **Object-Oriented Programming (ITS63304)** course at **Taylor’s University**.  
